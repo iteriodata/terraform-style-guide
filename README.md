@@ -75,7 +75,7 @@ When commenting use "#" and a space in front of the comment for a single line co
 ...
 ```
 
-and "/* */" for a multi-line commend.
+and "/* */" for a multi-line comment.
 ```
 /* variable "environment" {
   default = "dev"
