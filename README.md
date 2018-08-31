@@ -64,12 +64,19 @@ provider "aws" {
 
 ### Comments
 
-When commenting use two "//" and a space in front of the comment.
+When commenting use "#" and a space in front of the comment for a single line comment.
 
 ```
-// CREATE ELK IAM ROLE 
+# CREATE ELK IAM ROLE 
 ...
 ```
+
+and "/* */" for a multi-line commend.
+/* variable "environment" {
+  default = "dev"
+} */
+
+
 
 ## Naming Conventions
 
