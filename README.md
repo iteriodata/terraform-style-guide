@@ -62,6 +62,10 @@ provider "aws" {
 ```
 
 
+### Variables
+
+Variables should be put into alphabetical order
+
 ### Comments
 
 When commenting use "#" and a space in front of the comment for a single line comment.
