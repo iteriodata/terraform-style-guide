@@ -76,10 +76,11 @@ When commenting use "#" and a space in front of the comment for a single line co
 ```
 
 and "/* */" for a multi-line commend.
+```
 /* variable "environment" {
   default = "dev"
 } */
-
+```
 
 
 ## Naming Conventions
